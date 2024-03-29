@@ -19,6 +19,7 @@
             <name>IComponentStore</name>
             <instance>default</instance>
             <instance>software</instance>
+            <instance>default1</instance>
         </interface>
     </hal>
 </manifest>
